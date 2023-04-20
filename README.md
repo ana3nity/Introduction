@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
-<h3 align="center">A junior UX Designer & self-taught Front-End Developer</h3>
+<h3 align="center">A UX Designer & self-taught Front-End Developer</h3>
 
 <p align="center">
   🌱 I’m currently learning Angular, Vue.js, Unity
