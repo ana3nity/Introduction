@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
-<h3 align="center">A UX Designer & self-taught Front-End Developer</h3>
+<h3 align="center">A UX Designer & Website Front-End Developer</h3>
 
 <p align="center">
-  🌱 I’m currently learning React
+  🌱 I’m currently learning to build Apps!
 
 <p align="center">
   📫 How to reach me: <a href="mailto:anamtrinidad@outlook.com">anamtrinidad@outlook.com</a>
