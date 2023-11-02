@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
-<h3 align="center">A User Experience Designer & Front-End Designer</h3>
+<h3 align="center">A Front-End Developer with a background in UX/UI Design!</h3>
 
 <p align="center">
   🌱 I’m currently learning to build Apps!
