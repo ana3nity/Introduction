@@ -5,7 +5,7 @@
   🌱 I’m currently learning to build Apps!
 
 <p align="center">
-  📫 How to reach me: <a href="mailto:ana3nity.ux@gmail.com">Send me an E-mail!</a>
+  📫 How to reach me: <a href="mailto:anamtrinidad@outlook.com">Send me an E-mail!</a>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
