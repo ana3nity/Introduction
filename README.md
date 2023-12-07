@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
-<h3 align="center">I specialize in Front-End Development. I have knowledge in UX/UI Design, Full Stack Development, and Data Analytics</h3>
+<h3 align="center">I specialize in Front-End Development. I have experience in UX/UI Design and Data Analytics that enhance my expertise.</h3>
 
 <p align="center">
   🌱 I’m currently learning Data Science, Data Analytics, and Cybersecurity.
