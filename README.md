@@ -17,7 +17,7 @@
 <h4 align="center">Design</h4>
 <p align="center"> 
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-  <a href="https://affinity.serif.com/en-us/" target="_blank"><img style="margin: 10px" src="#" alt="Affinity Suite Icon" height="50" /></a> 
+  <a href="https://affinity.serif.com/en-us/" target="_blank"><img style="margin: 10px" src="https://iconduck.com/icons/80055/affinity" alt="Affinity Suite Icon" height="50" /></a> 
 </p>
 
 <h4 align="center">Front-End</h4>
