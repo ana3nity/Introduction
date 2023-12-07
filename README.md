@@ -2,7 +2,7 @@
 <h3 align="center">A Full Stack Developer and UX/UI Designer</h3>
 
 <p align="center">
-  🌱 I’m currently learning to Data Science, Data Analytics, and Cybersecurity
+  🌱 I’m currently learning Data Science, Data Analytics, and Cybersecurity
 
 <p align="center">
   📫 How to reach me: <a href="mailto:anamtrinidad@outlook.com">Send me an E-mail!</a>
