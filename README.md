@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
-<h3 align="center">A Front-End Developer and UX/UI Designer!</h3>
+<h3 align="center">A Full Stack Developer and UX/UI Designer</h3>
 
 <p align="center">
-  🌱 I’m currently learning to build Apps!
+  🌱 I’m currently learning to Data Science, Data Analytics, and Cybersecurity
 
 <p align="center">
   📫 How to reach me: <a href="mailto:anamtrinidad@outlook.com">Send me an E-mail!</a>
