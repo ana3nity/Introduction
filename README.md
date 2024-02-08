@@ -10,7 +10,6 @@
   📫 How to reach me: <a href="mailto:trini.ana@proton.me">Send me an E-mail!</a>
 <p align="center">
 <a href="https://linkedin.com/in/ana-louise-trinidad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-louise-trinidad/" height="30" width="40" /></a>
-<a href="https://dev.to/ana3nity" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ana3nity" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
