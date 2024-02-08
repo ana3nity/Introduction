@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
-<h2 align="center">I specialize in Front-End Development and Wordpress Development.</h2>
+<h2 align="center">I am a User Experience Designer that enjoys Front-End Development and Low-Code Development.</h2>
 <p align="center">My background in UX/UI Design enhances my developer expertise to build more empathetic user interfaces.</p>
 
 <p align="center">
-  🌱 I’m currently learning Data Analytics, Full Stack Development, and Cybersecurity.
+  🌱 I’m currently learning Data Analytics and Cybersecurity.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  📫 How to reach me: <a href="mailto:anamtrinidad@outlook.com">Send me an E-mail!</a>
+  📫 How to reach me: <a href="mailto:trini.ana@proton.me">Send me an E-mail!</a>
 <p align="center">
 <a href="https://linkedin.com/in/ana-louise-trinidad/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-louise-trinidad/" height="30" width="40" /></a>
 <a href="https://dev.to/ana3nity" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ana3nity" height="30" width="40" /></a>
