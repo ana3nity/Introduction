@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ana-Louise!</h1>
+<h1 align="center">Hi 👋🏽, I'm Ana-Louise!</h1>
 <h2 align="center">I am a User Experience Designer that enjoys Front-End Development and Low-Code Development.</h2>
 <p align="center">My background in UX/UI Design enhances my developer expertise to build more empathetic user interfaces.</p>
 
