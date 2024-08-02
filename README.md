@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Ana-Louise!</h1>
-<h2 align="center">I am a UX Designer who is Code-Conversational!</h2>
 
-<p align="center">
-  🌱 I’m currently learning Data Analytics and Game Development!
-
-<h3 align="center">Connect with me:</h3>
 <h3 align="center">Languages and Tools:</h3>
 
 <h4 align="center">Design</h4>
