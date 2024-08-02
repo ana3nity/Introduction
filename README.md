@@ -5,9 +5,6 @@
   🌱 I’m currently learning Data Analytics and Game Development!
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  📫 How to reach me: <a href="mailto:trini.ana@proton.me">Send me an E-mail!</a>
-
 <h3 align="center">Languages and Tools:</h3>
 
 <h4 align="center">Design</h4>
